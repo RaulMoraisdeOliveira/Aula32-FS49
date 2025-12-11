@@ -1,0 +1,2 @@
+# Aula32-FS49
+SQL/SQLite - 11/12/25
